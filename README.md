@@ -6,7 +6,7 @@ Welcome to the React Canvas Drawing Tool! This is a versatile drawing applicatio
 
 ## Want to try it out ?
 
-[Click here: https://vikas-kukreti.github.io/react-canvas-draw/](https://vikas-kukreti.github.io/react-canvas-draw/)
+[Click here: draw-8zm4xot52-sachin-prasads-projects.vercel.app](https://github.com/SachinBunnY/draw_it)
 
 ## Features
 
@@ -46,11 +46,11 @@ Save your masterpieces! Export your drawings to ediate json format and import th
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/react-canvas-drawing-tool.git
+   git clone https://github.com/your-username/draw_it.git
    ```
 2. Install dependencies.
    ```bash
-   cd react-canvas-drawing-tool
+   cd draw_it
    npm install
    ```
 3. Run the development server.
@@ -59,14 +59,5 @@ Save your masterpieces! Export your drawings to ediate json format and import th
    ```
 
 ## Note
+
 **This is still in early stages of development, architecture changes are expected which might break the import feature for old exported drawings.**
-
-## Like it ?
-
-- Contribute by raising a Pull Request
-- Give it a Star ⭐
-
-## Connect with me
-
-- [Write a mail at vikaskukreti10@gmail.com](mailto:vikaskukreti10@gmail.com)
-- [LinkedIn: https://www.linkedin.com/in/vikas-kukreti/](https://www.linkedin.com/in/vikas-kukreti/)
